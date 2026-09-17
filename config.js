@@ -1,10 +1,10 @@
-// THE PILOT · $PILOT — edit this file at launch
+// THE PILOT · $PILOT
 window.PILOT_CFG = {
-  CA: "",                              // paste the pump.fun mint address here
+  CA: "2HYnfuho5Y7i4ZbQ83b2v4D4xe3RwFb8fLDn2hptpump",
   CHAIN: "solana",
-  PAD: "pumpfun",                      // BUY button -> pump.fun/coin/<CA>
+  PAD: "pumpfun",
   X: "https://x.com/Thepilotdrunk",
-  BUY: "",                             // optional override for the buy link
-  CHART: "",                           // optional override (default gmgn)
+  BUY: "",
+  CHART: "",
   PAIR: "BA"
 };
